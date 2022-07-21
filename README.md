@@ -1,2 +1,2 @@
-- 👋 Hi, It's Adam Oldfield - aka OFD (OldFusionDesigns)!
-- Please enjoy some of these open source steps for the OFD turbine series scars!
+- 👋 Hi, It's Adam - aka OFD (OldFusionDesigns)!
+- Please enjoy these files - the Flycore project, an open source Flywheel core for designing new and exciting blasters, as well as open source shroud geometry for my turbine scar!
