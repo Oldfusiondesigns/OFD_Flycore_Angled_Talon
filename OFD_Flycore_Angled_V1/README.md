@@ -9,6 +9,7 @@ and old to focus on creating exciting new
 designs with a proven flywheel core that’s
 simple to build and has compact geometry to
 integrate
+
 Details
 · Compatible with ANY Flywheel (From FTW to
 Banned Blasters)
@@ -24,6 +25,7 @@ of fire (wiring similar to 3 switch rapidstrike)
 · Experimental topload capability
 · Full steps provided to create your own new and
 exciting blasters!
+
 Licensing and
 Production
 · Flycore is license under CC-BY-SA-NC
@@ -35,6 +37,7 @@ agreement.
 · If you wish to sell, please contact me so we can
 arrange a licensing fee for a small percentage of
 sale price
+
 Hardware List
 (2) 130 motors
 (1) N20 Pusher Motor of your choice! (300-
